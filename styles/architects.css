@@ -224,7 +224,12 @@ main > section {
         font-weight: 500;
         font-size: 50px;
         padding: 20px;
+        font-size: 1.25rem;
     }
+    #experience-year{
+    font-size: 3rem;
+    font-weight: 900;
+}
 
 }
 /* medium size device */
